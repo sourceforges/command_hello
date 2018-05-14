@@ -4,3 +4,4 @@ remote repository of git_test
   - feature-A
   - fix-B
   - fix-C
+  - feature-D
